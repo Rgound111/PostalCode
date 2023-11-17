@@ -1,0 +1,46 @@
+.details-container {
+    padding: 20px;
+    border: 1px solid #ddd;
+    margin: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  .country, .state {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .places-container {
+    margin-top: 20px;
+  }
+  
+  h3 {
+    color: #555;
+  }
+  
+  .place {
+    margin-bottom: 8px;
+    color: #007bff;
+  }
+
+  .clear-button {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    margin-top: 20px;
+    margin-left: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .clear-button:hover {
+    background-color: #c82333;
+  }
